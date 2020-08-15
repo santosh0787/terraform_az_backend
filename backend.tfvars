@@ -1,5 +1,5 @@
-resource_group_name="Sandbox-Santosh-Ashtaputra"
-storage_account_name="testsantosh"
+resource_group_name="RG_Name"
+storage_account_name="terraformstate"
 container_name="tfstate"
 #access_key="xxxxxxx"
 key="test.tfstate"
