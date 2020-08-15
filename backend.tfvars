@@ -1,5 +1,5 @@
 resource_group_name="Sandbox-Santosh-Ashtaputra"
 storage_account_name="testsantosh"
 container_name="tfstate"
-#access_key="Lo/bRgZXM85OtXyTEM8nIlkmoJoMWzOlD4HLhbib66+0P2ar27kJ2o9eRhid5zuONdiDaibN1vhE9/+IF3NQqw=="
+#access_key="xxxxxxx"
 key="test.tfstate"
