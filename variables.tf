@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "rg" {
-  default = "Sandbox-Santosh-Ashtaputra"
+  default = "RG_name"
 }
 
 variable "as_names" {
